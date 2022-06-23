@@ -1,4 +1,4 @@
-#include "tshirtsize_impl.h"
+#include "tshirts.h"
 
 namespace tshirts
 {
