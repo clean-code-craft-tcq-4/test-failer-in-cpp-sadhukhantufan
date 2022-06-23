@@ -1,5 +1,4 @@
 #include "tshirts.h"
-#include <assert.h>
 
 namespace tshirts
 {
